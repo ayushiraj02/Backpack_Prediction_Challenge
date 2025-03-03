@@ -44,9 +44,3 @@ This repository contains my solution for the **Kaggle Playground Series - Predic
 - Finding the right hyperparameters using **Optuna**.
 - Balancing bias and variance while ensembling models.
 - Avoiding **overfitting** due to small dataset size.
-
-## 📌 How to Reproduce
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/kaggle-backpack-price-prediction.git
-   cd kaggle-backpack-price-prediction
