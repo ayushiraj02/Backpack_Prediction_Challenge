@@ -11,7 +11,7 @@ This repository contains my solution for the **Kaggle Playground Series - Predic
 - **Final Rank**: `1828`
 - **Best RMSE Score**: `38.93292`
 
-- 
+  
 ![alt text](https://github.com/ayushiraj02/Backpack_Prediction_Challenge/blob/main/1828.png?raw=true)
 
 
